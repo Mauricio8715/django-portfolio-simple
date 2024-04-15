@@ -1,6 +1,6 @@
 ## Django Portofolio Example
 
-this is a basic portfolio in dark mode
+
 ![](./screenshot.png)
 
 ### Installation
